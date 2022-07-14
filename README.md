@@ -31,6 +31,12 @@ python3 gui.py
 
 > You will get a graphic user interface in your local browser with game logic implemented in my solution.
 
+![gui-1](gui-1.png)
+
+![gui-2](gui-2.png)
+
+![gui-3](gui-3.png)
+
 
 
 ## Download starter files
@@ -43,7 +49,7 @@ cd sicp-proj02
 unzip cats.zip
 ```
 
-Below
+Below is a list of all the files you will see in the archive `cats.zip`. However, you only have to make changes to `cats.py`.
 
 - `cats.py`: The typing test logic.
 
@@ -464,17 +470,21 @@ python3 ok -q 10 --local
 
 
 
-Congratulations! Now you can play against other students in the course. Set `enable_multiplayer` to `True` near the bottom of `cats.py` and type swiftly!
-
-Unfortunately, you might not be able to find an opponent since there aren't many people doing the project at the same time. You can test the multiplayer function using two computers by yourself or using several virtual machines.
-
-
+## Conclusion
 
 At this point, run the entire autograder to see if there are any tests that don't pass.
 
 ```shell
 python3 ok --local
 ```
+
+Congratulations! Now you can play against other students in the course. Set `enable_multiplayer` to `True` near the bottom of `cats.py` and type swiftly!
+
+Unfortunately, you might not be able to find an opponent since there aren't many people doing the project at the same time. You can test the multiplayer function using two computers by yourself or using several virtual machines.
+
+This the end of the second project of SICP! 
+
+You've been half-way to the success of the SICP, Bravo!
 
 
 
