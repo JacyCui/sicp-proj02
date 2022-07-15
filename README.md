@@ -1,4 +1,4 @@
-# Project 2: Autocorrected Typing Software
+# Project 2: Typing Cats
 
 
 
